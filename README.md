@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="logo/horizontal.png" width=60%>
+<img src="drawable/airp.png" width=60%>
 </h1>
 
 # BookingUI-Android
