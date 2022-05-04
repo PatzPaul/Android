@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Buku</string>
+    <string name="confirm_to_pay">Confirm To Pay</string>
+    <string name="_0712_345_678">0712-345-678</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="phone_confirmation">Phone Confirmation</string>
+    <string name="todo">TODO</string>
+    <string name="appbar_scrolling_view_behavior">appbar_scrolling_view_behavior</string>
+
+</resources>
