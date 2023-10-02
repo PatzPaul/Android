@@ -2,6 +2,6 @@
 <img src="drawable/airp.png" width=60%>
 </h1>
 
-# BookingUI-Android
-Check out the new style for App Design aims for Booking Service...
-
+# BookingUI-Mobile App ✈️
+This is an Airline booking App built with Android studio using Java programming Language 
+ 
